@@ -3,7 +3,7 @@
 #### Figma Design https://www.figma.com/community/file/1116246660507537002
 ### Preview ( Dark Mode )
 
-<img src="/preview.gif" alt="preview" width="600px" />
+
 
 ## Follow Below instructions to add your deatils in the portfolio.
 
